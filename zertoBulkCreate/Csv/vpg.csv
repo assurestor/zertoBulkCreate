@@ -1,0 +1,2 @@
+﻿VPGName,ServiceProfile,ReplicationPriority,RecoverySiteName,ClusterName,DatastoreName,JournalDatastore,vCenterFolder,OrgVdcName,FailoverNetwork,TestNetwork
+Auto-Created VPG 2,dr2cloud 24hrs unlimited,Medium,dr2cloud Zerto,,,,,Demo dr2cloud vDC,DEMO-LAB Live,DEMO-LAB Test

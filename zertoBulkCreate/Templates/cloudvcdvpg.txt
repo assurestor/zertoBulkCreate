@@ -1,0 +1,36 @@
+﻿{
+	"Basic": {
+		"Name": null,
+		"Priority": null,
+		"ProtectedSiteIdentifier": null,
+		"RecoverySiteIdentifier": null,
+		"ServiceProfileIdentifier": null,
+		"ZorgIdentifier": null
+	},
+	"Journal": {
+		"Limitation": {
+			"HardLimitInPercent": 0,
+			"WarningThresholdInPercent": 0
+		}
+	},
+	"Networks": {
+		"Failover": {
+			"VCD": {
+				"IsEnableGuestCustomization": "False",
+				"DefaultRecoveryOrgVdcNetworkIdentifier": null
+			}
+		},
+		"FailoverTest": {
+			"VCD": {
+				"IsEnableGuestCustomization": "False",
+				"DefaultRecoveryOrgVdcNetworkIdentifier": null
+			}
+		}
+	},
+	"Recovery": {
+		"VCD": {
+			"OrgVdcIdentifier": null
+		}
+	},
+	"Vms": []
+}

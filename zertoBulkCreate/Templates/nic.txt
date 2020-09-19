@@ -1,0 +1,23 @@
+﻿{
+	"Failover": {
+		"VCD": {
+			"IpAddress": null,
+			"IpMode": null,
+			"IsConnected": null,
+			"IsPrimary": null,
+			"IsResetMacAddress": null,
+			"RecoveryOrgVdcNetworkIdentifier": null
+		}
+	},
+	"FailoverTest": {
+		"VCD": {
+			"IpAddress": null,
+			"IpMode": null,
+			"IsConnected": null,
+			"IsPrimary": null,
+			"IsResetMacAddress": null,
+			"RecoveryOrgVdcNetworkIdentifier": null
+		}
+	},
+	"NicIdentifier": "Network adapter 1"
+}

@@ -1,0 +1,2 @@
+﻿VMName,VPGName,BootGroupName,ThinProvision,UpdateVMNIC,VMNICFailoverIPAddress,VMNICFailoverIPMode,VMNICFailoverIsConnected,VMNICFailoverIsPrimary,VMNICFailoverIsResetMacAddress,VMNICFailoverTestIPAddress,VMNICFailoverTestIPMode,VMNICFailoverTestIsConnected,VMNICFailoverTestIsPrimary,VMNICFailoverTestIsResetMacAddress
+ASIGRA-001,Auto-Created VPG 2,,TRUE,TRUE,172.30.200.21,Static Manual,TRUE,TRUE,FALSE,172.30.200.21,Static Manual,TRUE,TRUE,FALSE

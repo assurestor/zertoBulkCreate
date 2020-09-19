@@ -1,0 +1,4 @@
+﻿{
+"VmIdentifier": null,
+"Nics": []
+}
